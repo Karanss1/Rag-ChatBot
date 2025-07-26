@@ -42,6 +42,8 @@ The RAG architecture enhances LLM performance by grounding responses in domain-s
 
 4.Start the Chatbot
   python main.py
+  
+<img width="3840" height="2160" alt="Screenshot from 2025-07-17 22-33-02" src="https://github.com/user-attachments/assets/80b1b263-a135-490f-b5fe-f1a3103d89f6" />
 
 
 
